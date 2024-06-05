@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 May 2024 00:42:17 at http://reidozap:JhyTemnt@botmaster.mediaplus.me/admin/login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://reidozap:JhyTemnt@botmaster.mediaplus.me/admin/login -O1 "C:\Users\ADMNIN\Desktop\omar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:42:38	Error: 	"Connect Error" (-4) after 2 retries at link reidozap:JhyTemnt@botmaster.mediaplus.me/robots.txt (from primary/primary)
+00:43:23	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/login)
+00:43:23	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/City1Coral1/style.css (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/login)
+00:43:24	Error: 	"Not Found" (404) at link reidozap:JhyTemnt@botmaster.mediaplus.me/botmasterlogo.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/login)
+00:45:04	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link static.ak.fbcdn.net/rsrc.php/v1/yL/r/FGFbc80dUKj.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:04	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/images/ui/fbf9ee_40x100_textures_02_glass_55.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:04	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/images/ui/888888_256x240_icons_icons.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:04	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/fonts/runner2.eot (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:05	Warning: 	Retry after error -4 (Connect Error) at link reidozap:JhyTemnt@botmaster.mediaplus.me/admin/fonts/runner2.ttf (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:05	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link static.ak.fbcdn.net/rsrc.php/v1/yL/r/FGFbc80dUKj.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+00:45:05	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link static.ak.fbcdn.net/rsrc.php/v1/yL/r/FGFbc80dUKj.png (from reidozap:JhyTemnt@botmaster.mediaplus.me/admin/styles/default.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 48 seconds : 37 links scanned, 26 files written (1102310 bytes overall) [422003 bytes received at 2511 bytes/sec], 1000248 bytes transferred using HTTP compression in 7 files, ratio 31%
+(3 errors, 8 warnings, 0 messages)
